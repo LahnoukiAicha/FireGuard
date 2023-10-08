@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FireGuard/static/css/main.8919ebb6.css",
+    "main.js": "/FireGuard/static/js/main.14873b53.js",
+    "static/media/CentraNo2-Bold.ttf": "/FireGuard/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/FireGuard/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/FireGuard/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/fire.png": "/FireGuard/static/media/fire.5a7a456cf64fcf50a49b.png",
+    "static/media/logo.png": "/FireGuard/static/media/logo.f63af9076a97b58ea84b.png",
+    "index.html": "/FireGuard/index.html",
+    "main.8919ebb6.css.map": "/FireGuard/static/css/main.8919ebb6.css.map",
+    "main.14873b53.js.map": "/FireGuard/static/js/main.14873b53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8919ebb6.css",
+    "static/js/main.14873b53.js"
+  ]
+}
